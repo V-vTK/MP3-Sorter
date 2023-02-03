@@ -13,7 +13,9 @@ Here you can modify the input and output directories and switch between a dark a
 **NameSort** is a tool that helps you quickly identify files that are not named in the standard [artist] - [song] format.
 
 **For example:**
+
 Kygo, Sasha Alex Sloan - I'll Wait -> False
+
 The Score - Who I am -> True
 
 NameSort can improve the accuracy of your search results (MetadataLink). 
