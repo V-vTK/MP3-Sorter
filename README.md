@@ -1,6 +1,12 @@
 # MP3-Sorter
 A pastime project focused on enhancing the metadata and naming conventions of MP3 files obtained from CDs.
 
+The App is built on top of CustomTKinter which provides an efficient way to create a modern UI. 
+I found that the documentation and examples provided with it were extremely helpful.
+Developement with it was mostly smooth sailing.
+
+https://github.com/TomSchimansky/CustomTkinter
+
 # Preview
 ![python_T9Kt4Df75E](https://user-images.githubusercontent.com/97534406/216664783-d84c958d-827a-4e2e-b9a9-0ee500e603db.png)
 
