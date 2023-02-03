@@ -1,6 +1,8 @@
 # MP3-Sorter
 A pastime project focused on enhancing the metadata and naming conventions of MP3 files obtained from CDs.
 
+# Preview
+![python_T9Kt4Df75E](https://user-images.githubusercontent.com/97534406/216664783-d84c958d-827a-4e2e-b9a9-0ee500e603db.png)
 
 # Home:
 ![python_yj9dwdgcrb](https://user-images.githubusercontent.com/97534406/216659653-0d9870ea-cd7d-44d6-a7a2-cc71ffb914e1.png)
@@ -29,7 +31,7 @@ Finds a picture associated with the filename. Allows you to find another picture
 Using ID3v2 tags the picture is embedded into the MP3 file.
 
 **In action:**
-![python_T9Kt4Df75E](https://user-images.githubusercontent.com/97534406/216664783-d84c958d-827a-4e2e-b9a9-0ee500e603db.png)
+![python_PAeFBdNqYX](https://user-images.githubusercontent.com/97534406/216674146-7353d242-d6f7-4b06-a5ef-05aba5a3d7d1.png)
 
 # FolderSort
 ![python_j9xJ8YC5jV](https://user-images.githubusercontent.com/97534406/216660395-3d55018c-9fde-4f08-bbe4-b8877fed669f.png)
